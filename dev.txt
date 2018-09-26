@@ -1,1 +1,2 @@
-this is a sample file created into the development branch for testing the git 
+this is a sample file created into the development branch for testing the git.
+We are changing the file locally and pushing to development.
