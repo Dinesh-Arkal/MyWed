@@ -1,1 +1,2 @@
-this is a master file created in remote repository 
+this is a master file created in remote repository.
+we need to do another commit in master file in remote 
