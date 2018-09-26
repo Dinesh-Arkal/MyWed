@@ -1,3 +1,4 @@
 this is a sample file created into the development branch for testing the git.
 We are changing the file locally and pushing to development.
 We have changed the file in remote repository ------
+adding the changes in local for 2 nd commit
