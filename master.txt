@@ -1,2 +1,4 @@
 this is a master file created in remote repository.
 we need to do another commit in master file in remote 
+3rd commit in remote 
+4th commit in remote
