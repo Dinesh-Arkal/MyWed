@@ -3,3 +3,5 @@ We are changing the file locally and pushing to development.
 We have changed the file in remote repository ------
 adding the changes in local for 2 nd commit
 adding the changes in local for 3 rd commit
+adding the changes in local for 4th commit
+
